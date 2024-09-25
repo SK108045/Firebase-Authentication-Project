@@ -1,4 +1,5 @@
 # Firebase-Authentication-Project
+![Firebase](https://sk10codebase.online/images/FirebaseAuth.png)
 
 This project demonstrates a comprehensive Firebase authentication system using HTML, CSS, and JavaScript. It includes email/password sign-up with email verification, as well as social media authentication options.
 
