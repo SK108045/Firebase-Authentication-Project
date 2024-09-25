@@ -7,7 +7,7 @@ body {
             margin: 0;
             background-color: #f0f0f0;
         }
-        #message {
+#message {
             text-align: center;
             padding: 20px;
             background-color: white;
