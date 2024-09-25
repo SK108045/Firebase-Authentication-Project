@@ -56,4 +56,7 @@ This project demonstrates a comprehensive Firebase authentication system using H
    - Firebase SDK manages user sessions using the stored JWT.
    - The `onAuthStateChanged` listener in our code detects changes in authentication state.
 
+## Notes
 
+- Ensure that your Firebase project is properly configured with the correct authentication methods enabled
+- Update the redirect URLs in the JavaScript files to match your deployment environment
