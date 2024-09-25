@@ -56,6 +56,7 @@ This project demonstrates a comprehensive Firebase authentication system using H
 3. Session Management:
    - Firebase SDK manages user sessions using the stored JWT.
    - The `onAuthStateChanged` listener in our code detects changes in authentication state.
+     ![Firebase](https://sk10codebase.online/images/Firebase.png)
 
 ## Notes
 
