@@ -4,6 +4,7 @@
 This project demonstrates a comprehensive Firebase authentication system using HTML, CSS, and JavaScript. It includes email/password sign-up with email verification, as well as social media authentication options.
 
 ## Features
+![SignUp](https://sk10codebase.online/images/SignUp.png)
 
 - Email/Password sign-up with email verification
 - Google Sign-In
@@ -11,8 +12,6 @@ This project demonstrates a comprehensive Firebase authentication system using H
 - GitHub Sign-In
 - Twitter Sign-In
 - Responsive and modern UI design
-
-![SignUp](https://sk10codebase.online/images/SignUp.png)
 
 ## Files
 
