@@ -12,6 +12,7 @@ This project demonstrates a comprehensive Firebase authentication system using H
 - Twitter Sign-In
 - Responsive and modern UI design
 
+![Firebase](https://sk10codebase.online/images/SignUp.png)
 
 ## Files
 
