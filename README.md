@@ -1,10 +1,10 @@
 # Firebase-Authentication-Project
-![Firebase](https://sk10codebase.online/images/FirebaseAuth.png)
+![Firebase](https://shorturl.sk10codebase.online/images/FirebaseAuth.png)
 
 This project demonstrates a comprehensive Firebase authentication system using HTML, CSS, and JavaScript. It includes email/password sign-up with email verification, as well as social media authentication options.
 
 ## Features
-![SignUp](https://sk10codebase.online/images/Sign.png)
+![SignUp](https://shorturl.sk10codebase.online/images/Sign.png)
 
 - Email/Password sign-up with email verification
 - Google Sign-In
@@ -57,7 +57,7 @@ This project demonstrates a comprehensive Firebase authentication system using H
    - Firebase SDK manages user sessions using the stored JWT.
    - The `onAuthStateChanged` listener in our code detects changes in authentication state.
 
-![Firebase](https://sk10codebase.online/images/Firebase.png)
+![Firebase](https://shorturl.sk10codebase.online/images/Firebase.png)
 
 ## Notes
 
